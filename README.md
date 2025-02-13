@@ -26,7 +26,7 @@ Before you begin, ensure that you have the following installed on your system:
 1. Clone the repository:
 
     ```bash
-   [ git clone https://github.com/yourusername/code-review-ai.git](https://github.com/UmayerCoding1/code-review-ai.git)
+   https://github.com/UmayerCoding1/code-review-ai.git
     
     ```
 
